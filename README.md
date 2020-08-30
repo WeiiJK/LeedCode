@@ -1,1 +1,1 @@
-LeetCode代码
+Python code of LeetCode 
