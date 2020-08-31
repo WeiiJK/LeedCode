@@ -4,7 +4,7 @@ class Solution:
     def __init__(self):
         pass
 
-    def TwoSum(self, nums, target):
+    def two_sum(self, nums, target):
         """
         :param nums: List[int]
         :param target: int
@@ -20,5 +20,5 @@ if __name__ == '__main__':
     s = Solution()
     nums = [2, 7, 11, 15]
     target = 18
-    result = s.TwoSum(nums, target)
+    result = s.two_sum(nums, target)
     print(result)
